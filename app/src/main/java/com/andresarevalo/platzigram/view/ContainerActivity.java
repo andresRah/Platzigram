@@ -5,7 +5,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import com.andresarevalo.platzigram.R;
-import com.andresarevalo.platzigram.view.fragment.HomeFragment;
+import com.andresarevalo.platzigram.post.view.HomeFragment;
 import com.andresarevalo.platzigram.view.fragment.ProfileFragment;
 import com.andresarevalo.platzigram.view.fragment.SearchFragment;
 import com.roughike.bottombar.BottomBar;

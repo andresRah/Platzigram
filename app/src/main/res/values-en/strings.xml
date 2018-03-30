@@ -22,4 +22,9 @@
 
     <item name="visible" type="id"/>
     <item name="masked" type="id"/>
+
+    <string name="login_error">Fatal error</string>
+    <string name="hint_title">Titulo</string>
+    <string name="hint_description">Descripción</string>
+    <string name="text_button_createpost">Crear post</string>
 </resources>
