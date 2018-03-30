@@ -1,11 +1,5 @@
 package com.andresarevalo.platzigram.login.view;
 
-import android.content.Intent;
-import android.view.View;
-
-import com.andresarevalo.platzigram.view.ContainerActivity;
-import com.andresarevalo.platzigram.view.CreateAccountActivity;
-
 /**
  * Created by andresleonardoarevaloparra on 29/03/18.
  */

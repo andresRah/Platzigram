@@ -9,13 +9,12 @@ import android.transition.Explode;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.support.v7.widget.CardView;
 import android.widget.ImageView;
 import android.widget.TextView;
 
 import com.andresarevalo.platzigram.R;
 import com.andresarevalo.platzigram.model.Picture;
-import com.andresarevalo.platzigram.view.PictureDetailActivity;
+import com.andresarevalo.platzigram.post.view.PictureDetailActivity;
 import com.squareup.picasso.Picasso;
 
 import java.util.ArrayList;
